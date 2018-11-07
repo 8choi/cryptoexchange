@@ -15,7 +15,17 @@ Features:
 - Real-time financial audit and detect any database compromise on time.
 - HD wallet integration.
 - Seperated hot-wallet and cold-wallet with high security.
-- Build-in support for BTC, BCH, ETH, ETC, ERC20, QTUM, QRC20, etc.
+- Build-in support for BTC, BCH, USDT, ETH, ETC, ERC20, QTUM, QRC20, etc.
+
+Commercial version features:
+
+- Production-ready for AWS environment.
+- All professional order types including Stop, Stop-Limit, Trailing-Stop, FOK, IOC, Hidden, Post-Only, etc.
+- Different maker / taker fee rates.
+- Negative fee rate for maker.
+- Custom extension for order post-process.
+- Management console support.
+- Integration with [Vault](https://www.vaultproject.io/) for safe storage of cold-wallet.
 
 Commercial version demo: https://github.com/michaelliao/cryptoexchange-release
 
