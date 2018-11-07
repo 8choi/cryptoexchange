@@ -17,6 +17,6 @@ Features:
 - Seperated hot-wallet and cold-wallet with high security.
 - Build-in support for BTC, BCH, ETH, ETC, ERC20, QTUM, QRC20, etc.
 
-Commercial version demo: https://www.testnet.cyberbitex.com/
+Commercial version demo: https://github.com/michaelliao/cryptoexchange-release
 
 Please contact @michaelliao for commercial version.
