@@ -15,7 +15,7 @@ Features:
 - Real-time financial audit and detect any database compromise on time.
 - HD wallet integration.
 - Seperated hot-wallet and cold-wallet with high security.
-- Build-in support for BTC, BCH, USDT, ETH, ETC, ERC20, QTUM, QRC20, etc.
+- Build-in support for BTC, BCH, USDT, ETH, ETC, ERC20, etc.
 
 Commercial version features:
 
