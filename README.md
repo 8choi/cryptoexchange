@@ -27,6 +27,6 @@ Commercial version features:
 - Management console support.
 - Integration with [Vault](https://www.vaultproject.io/) for safe storage of cold-wallet.
 
-Commercial version demo: https://github.com/michaelliao/cryptoexchange-release
+# Evaluate Commercial Version
 
-Please contact @michaelliao for commercial version.
+Check https://github.com/michaelliao/cryptoexchange-release
